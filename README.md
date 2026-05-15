@@ -238,6 +238,6 @@ git push -u origin main
 
 <div align="center">
 
-**Universidad Da Vinci de Guatemala** | Estructuras de Datos | 2025
+**Universidad Da Vinci de Guatemala** | Estructuras de Datos | 2026
 
 </div>
