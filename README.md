@@ -10,7 +10,7 @@
 
 ---
 
-## 👩‍💻 Información del Estudiante
+## Información del Estudiante
 
 | Campo | Detalle |
 |---|---|
@@ -22,25 +22,25 @@
 
 ---
 
-## 🎯 Descripción del Proyecto
+##  Descripción del Proyecto
 
 Implementación **desde cero** de un **Árbol Binario de Búsqueda (BST)** en Java, sin uso de librerías nativas de árboles. El programa demuestra inserción, búsqueda, eliminación (los 3 casos críticos) y los tres tipos de recorridos.
 
 ---
 
-## 🎬 Video de Defensa
+## Video de Defensa
 
 > https://drive.google.com/file/d/1ZETSgSRpklvRVg_zWKgqB-eKdP5jFgDM/view?usp=sharing
 >
 
 El video cubre:
-- ✅ Ejecución en tiempo real insertando y eliminando valores
-- ✅ Explicación del método `delete()` y sus 3 casos
-- ✅ Justificación de la complejidad Big-O de `search()`
+- Ejecución en tiempo real insertando y eliminando valores
+- Explicación del método `delete()` y sus 3 casos
+- Justificación de la complejidad Big-O de `search()`
 
 ---
 
-## 📁 Estructura del Proyecto
+## Estructura del Proyecto
 
 ```
 BST-KarenRodas/
@@ -66,7 +66,7 @@ BST-KarenRodas/
 
 ---
 
-## 🗑️ Los 3 Casos de Eliminación
+## Los 3 Casos de Eliminación
 
 ```
 CASO 1 — Nodo hoja (sin hijos):
@@ -88,7 +88,7 @@ CASO 3 — Nodo con dos hijos:
 
 ---
 
-## 📊 Complejidad Algorítmica (Big-O)
+## Complejidad Algorítmica (Big-O)
 
 | Operación | Caso Promedio | Peor Caso |
 |---|---|---|
@@ -105,11 +105,11 @@ CASO 3 — Nodo con dos hijos:
 
 ---
 
-## 🚀 Cómo Ejecutar el Proyecto
+## Cómo Ejecutar el Proyecto
 
 ### Requisitos Previos
-- ✅ **Java JDK 11 o superior** instalado
-- ✅ Verificar instalación: `java -version`
+- **Java JDK 11 o superior** instalado
+- Verificar instalación: `java -version`
 
 ### Opción A — Desde la Terminal (Manual)
 
@@ -142,14 +142,14 @@ java Main
 
 ---
 
-## 📤 Cómo Subir a GitHub (Paso a Paso)
+## Cómo Subir a GitHub (Paso a Paso)
 
 ### Paso 1 — Crear cuenta y repositorio en GitHub
 1. Ir a [github.com](https://github.com) y crear cuenta (si no tienes)
 2. Clic en **"New repository"** (botón verde `+`)
 3. Nombre: `BST-KarenRodas`
 4. Seleccionar **Public**
-5. ✅ Marcar **"Add a README file"** → Clic en **"Create repository"**
+5.  Marcar **"Add a README file"** → Clic en **"Create repository"**
 
 ### Paso 2 — Subir los archivos
 ```bash
@@ -178,7 +178,7 @@ git push -u origin main
 
 ---
 
-## 🎥 Cómo Subir el Video a YouTube
+##  Cómo Subir el Video a YouTube
 
 1. Grabar el video (máximo 5 minutos) mostrando:
    - El programa corriendo con las inserciones y eliminaciones
@@ -193,13 +193,13 @@ git push -u origin main
 
 5. Para editar el README en GitHub:
    - Abrir `README.md` en GitHub
-   - Clic en el ✏️ (lápiz)
+   - Clic en el  (lápiz)
    - Reemplazar `https://www.youtube.com/watch?v=TU_ENLACE_AQUI` con tu enlace real
    - Clic en **"Commit changes"**
 
 ---
 
-## 🖥️ Salida Esperada del Programa
+##  Salida Esperada del Programa
 
 ```
 ============================================================
