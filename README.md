@@ -30,9 +30,8 @@ Implementación **desde cero** de un **Árbol Binario de Búsqueda (BST)** en Ja
 
 ## 🎬 Video de Defensa
 
-> 🔗 **[Ver video en YouTube →](https://www.youtube.com/watch?v=TU_ENLACE_AQUI)**
+> https://drive.google.com/file/d/1ZETSgSRpklvRVg_zWKgqB-eKdP5jFgDM/view?usp=sharing
 >
-> *(Sustituye este enlace por el tuyo después de subir el video)*
 
 El video cubre:
 - ✅ Ejecución en tiempo real insertando y eliminando valores
